@@ -20,7 +20,7 @@ Ce script est conçu pour fonctionner sur **Ubuntu/Debian** et nécessite :
 Clonez ce dépôt et rendez le script exécutable :
 ```bash
 # Clone le dépôt
-git clone https://github.com/TON_NOM_UTILISATEUR/script-administration-linux.git
+git clone https://github.com/T3Nat/script-administration-linux.git
 cd script-administration-linux
 
 # Donner les droits d'exécution
@@ -78,6 +78,4 @@ Choisissez une option :
 - Le script est optimisé pour **Ubuntu/Debian**, mais peut être modifié pour d'autres distributions.
 - En cas de bug, ouvrez une **issue** sur ce dépôt GitHub.
 
-## 📜 Licence
-Ce script est sous licence **MIT** – vous êtes libre de le modifier et de l'améliorer ! 🚀
 
